@@ -1,0 +1,17 @@
+{
+  "name": "ProjectArmadillo",
+  "displayName": "ProjectArmadillo",
+  "expo": {
+    "name": "ProjectArmadillo",
+    "slug": "ProjectArmadillo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-armadillo-dev-205520-authRole",
+            "UnauthRoleArn": "arn:aws:iam::232411303821:role/amplify-armadillo-dev-205520-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::232411303821:role/amplify-armadillo-dev-205520-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-armadillo-dev-205520-deployment",
+            "UnauthRoleName": "amplify-armadillo-dev-205520-unauthRole",
+            "StackName": "amplify-armadillo-dev-205520",
+            "StackId": "arn:aws:cloudformation:us-west-2:232411303821:stack/amplify-armadillo-dev-205520/cc997800-9973-11ea-8da8-061326aceaf4",
+            "AmplifyAppId": "d258e1wnc6nhjy"
+        },
+        "categories": {
+            "auth": {
+                "armadillo07191918": {}
+            }
+        }
+    },
+    "arma": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-armadillo-arma-233143-authRole",
+            "UnauthRoleArn": "arn:aws:iam::232411303821:role/amplify-armadillo-arma-233143-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::232411303821:role/amplify-armadillo-arma-233143-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-armadillo-arma-233143-deployment",
+            "UnauthRoleName": "amplify-armadillo-arma-233143-unauthRole",
+            "StackName": "amplify-armadillo-arma-233143",
+            "StackId": "arn:aws:cloudformation:us-east-1:232411303821:stack/amplify-armadillo-arma-233143/a5d65d80-9989-11ea-a958-12c1d85cca19",
+            "AmplifyAppId": "d1ks5prvs9thkx"
+        },
+        "categories": {
+            "auth": {
+                "armadillo07191918": {}
+            }
+        }
+    }
+}
